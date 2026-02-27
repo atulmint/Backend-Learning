@@ -27,3 +27,30 @@ JSON & BSON format
 How MongoDB stores data
 
 Basic CRUD operations
+
+
+📅 Day 3 – Building My First Cloud-Based Project ☁️
+
+Today I started working on my first cloud-integrated backend project.
+
+🧠 What I’m Learning
+
+How backend connects to cloud services
+
+Deploying applications to the cloud
+
+Environment variables in production
+
+Connecting MongoDB Atlas (Cloud Database)
+
+Understanding server hosting
+
+☁️ Project Focus
+
+Backend built with Node.js + Express
+
+Database hosted on MongoDB Atlas
+
+Learning how deployment works
+
+Understanding production vs local environment

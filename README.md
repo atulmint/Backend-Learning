@@ -45,7 +45,7 @@ Connecting MongoDB Atlas (Cloud Database)
 
 Understanding server hosting
 
-☁️ Project Focus
+ Project Focus
 
 Backend built with Node.js + Express
 

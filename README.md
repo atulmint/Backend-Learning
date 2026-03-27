@@ -32,8 +32,7 @@ Basic CRUD operations
 📅 Day 3 – Building My First Cloud-Based Project ☁️
 
 Today I started working on my first cloud-integrated backend project.
-
-🧠 What I’m Learning
+ What I’m Learning
 
 How backend connects to cloud services
 

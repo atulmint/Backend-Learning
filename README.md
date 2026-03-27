@@ -14,7 +14,7 @@ This repository is where I’ll be building, experimenting, and learning backend
 
 Today I learned about MongoDB and how data is stored in a NoSQL database.
 
-🧠 What I Learned
+What I Learned
 
 What is MongoDB
 
